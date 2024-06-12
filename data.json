@@ -1,0 +1,762 @@
+[
+    {
+      "p_id": 1,
+      "p_name": "Elegant Gold Necklace",
+      "p_cost": 299.99,
+      "p_cat": "Necklace",
+      "p_desc": "A stunning 24K gold necklace with intricate designs.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7_A2gwjwgO65acrR_KGCuEC6h5l1p_qlRsA&s"
+    },
+    {
+      "p_id": 2,
+      "p_name": "Sapphire Stud Earrings",
+      "p_cost": 149.99,
+      "p_cat": "Earrings",
+      "p_desc": "Elegant stud earrings featuring high-quality sapphires.",
+      "p_img": "https://www.ratnalijewels.com/cdn/shop/products/sapphirediamondstuds_1200x1200.jpg?v=1620836136"
+    },
+    {
+      "p_id": 3,
+      "p_name": "Diamond Engagement Ring",
+      "p_cost": 899.99,
+      "p_cat": "Ring",
+      "p_desc": "A beautiful diamond ring perfect for engagements.",
+      "p_img": "https://www.candere.com/media/jewellery/images/C008923__1.jpeg"
+    },
+    {
+      "p_id": 4,
+      "p_name": "Pearl Pendant Necklace",
+      "p_cost": 199.99,
+      "p_cat": "Necklace",
+      "p_desc": "A classic pearl pendant necklace with a modern touch.",
+      "p_img": "https://vibewithmoi.in/cdn/shop/files/necklacesArtboard1copy61.jpg?v=1695378671"
+    },
+    {
+      "p_id": 5,
+      "p_name": "Ruby Tennis Bracelet",
+      "p_cost": 349.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A luxurious tennis bracelet adorned with rubies.",
+      "p_img": "https://www.ratnalijewels.com/cdn/shop/products/Ruhi_Ruby_diamond_tennis_bracelet_grande.jpg?v=1544811641"
+    },
+    {
+      "p_id": 6,
+      "p_name": "Emerald Drop Earrings",
+      "p_cost": 179.99,
+      "p_cat": "Earrings",
+      "p_desc": "Elegant drop earrings with beautiful emeralds.",
+      "p_img": "https://therose.in/wp-content/uploads/2023/09/6STK22556-1.jpg"
+    },
+    {
+      "p_id": 7,
+      "p_name": "Sapphire and Diamond Bracelet",
+      "p_cost": 499.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A stunning bracelet with alternating sapphires and diamonds.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPecfGUVg2-HY-WHHRR6hbLiCHyjC5SRDYFw&s"
+    },
+    {
+      "p_id": 8,
+      "p_name": "Gold Hoop Earrings",
+      "p_cost": 99.99,
+      "p_cat": "Earrings",
+      "p_desc": "Classic gold hoop earrings that never go out of style.",
+      "p_img": "https://5.imimg.com/data5/SELLER/Default/2022/12/AT/NQ/YV/660230/small-hoop-earring.jpg"
+    },
+    {
+      "p_id": 9,
+      "p_name": "Platinum Wedding Band",
+      "p_cost": 799.99,
+      "p_cat": "Ring",
+      "p_desc": "A sleek and elegant platinum wedding band.",
+      "p_img": "https://www.jewelove.in/cdn/shop/products/jewelove-7mm-comfort-fit-platinum-wedding-band-for-men-sj-pto-258-z-men-s-band-only-17642880729240_1024x.jpeg?v=1680557942"
+    },
+    {
+      "p_id": 10,
+      "p_name": "Amethyst Pendant",
+      "p_cost": 129.99,
+      "p_cat": "Necklace",
+      "p_desc": "A gorgeous amethyst pendant set in sterling silver.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4g0_cY8WXB3_-_MGBy42Ak1WbzcJvxshkQQ&s"
+    },
+    {
+      "p_id": 11,
+      "p_name": "Gold Charm Bracelet",
+      "p_cost": 199.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A charming gold bracelet with customizable charms.",
+      "p_img": "https://assets.ajio.com/medias/sys_master/root/20220722/va1C/62dadaf1f997dd03e2ebf6c3/-473Wx593H-469199978-gold-MODEL.jpg"
+    },
+    {
+      "p_id": 12,
+      "p_name": "Turquoise Dangle Earrings",
+      "p_cost": 79.99,
+      "p_cat": "Earrings",
+      "p_desc": "Beautiful dangle earrings with vibrant turquoise stones.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJk580ntpxz-AwTVS2wIuceF1g20sKoRuVpw&s"
+    },
+    {
+      "p_id": 13,
+      "p_name": "Citrine Cocktail Ring",
+      "p_cost": 229.99,
+      "p_cat": "Ring",
+      "p_desc": "A bold citrine ring that makes a statement.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlQjx4nDcUBUX8NWh5YhDm0LV-1XnKkFnTjQ&s"
+    },
+    {
+      "p_id": 14,
+      "p_name": "Diamond Tennis Bracelet",
+      "p_cost": 999.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A classic tennis bracelet featuring sparkling diamonds.",
+      "p_img": "https://i.etsystatic.com/7020555/r/il/93b680/2866616688/il_fullxfull.2866616688_eu2b.jpg"
+    },
+    {
+      "p_id": 15,
+      "p_name": "Silver Heart Pendant",
+      "p_cost": 59.99,
+      "p_cat": "Necklace",
+      "p_desc": "A delicate silver pendant in the shape of a heart.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1kGiHbqbMhAMjRwObMVeF63S5iDVA30StQ&s"
+    },
+    {
+      "p_id": 16,
+      "p_name": "Garnet Stud Earrings",
+      "p_cost": 99.99,
+      "p_cat": "Earrings",
+      "p_desc": "Elegant stud earrings featuring deep red garnets.",
+      "p_img": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw14b7b3fd/images/hi-res/50D3D1SQTADA32_1.jpg?sw=640&sh=640"
+    },
+    {
+      "p_id": 17,
+      "p_name": "Gold Bangle Bracelet",
+      "p_cost": 149.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A simple yet elegant gold bangle bracelet.",
+      "p_img": "https://www.jiomart.com/images/product/original/rvssfm1c72/antilook-gold-plated-designer-bangle-bracelet-for-women-girls-pack-of-2-product-images-rvssfm1c72-0-202211162044.jpg?im=Resize=(500,630)"
+    },
+    {
+      "p_id": 18,
+      "p_name": "Pearl Drop Earrings",
+      "p_cost": 119.99,
+      "p_cat": "Earrings",
+      "p_desc": "Elegant drop earrings with lustrous pearls.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ74cLG27x52usmanwbd1JlW_uSkU9XstpI6g&s"
+    },
+    {
+      "p_id": 19,
+      "p_name": "Rose Gold Wedding Band",
+      "p_cost": 349.99,
+      "p_cat": "Ring",
+      "p_desc": "A romantic rose gold wedding band with a sleek design.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQm1assoP1e2xXYinWYyweldoFstm3t8kRzw&s"
+    },
+    {
+      "p_id": 20,
+      "p_name": "Opal Pendant Necklace",
+      "p_cost": 179.99,
+      "p_cat": "Necklace",
+      "p_desc": "A mesmerizing opal pendant set in white gold.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmknTKbHpWGqcWpirseT7R_b7mj6BHbKe0Yw&s"
+    },
+    {
+      "p_id": 21,
+      "p_name": "Topaz Stud Earrings",
+      "p_cost": 89.99,
+      "p_cat": "Earrings",
+      "p_desc": "Dazzling topaz stud earrings in a simple setting.",
+      "p_img": "https://www.rananjayexports.com/media/catalog/product/cache/1/thumbnail/800x/f82afc7c5577e32f115e91221200cfbc/b/t/btz-sde-985-2.jpg"
+    },
+    {
+      "p_id": 22,
+      "p_name": "Silver Infinity Bracelet",
+      "p_cost": 69.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A delicate silver bracelet with an infinity symbol.",
+      "p_img": "https://m.media-amazon.com/images/I/31KUC46nptL._AC_UY1100_.jpg"
+    },
+    {
+      "p_id": 23,
+      "p_name": "Ruby Pendant Necklace",
+      "p_cost": 249.99,
+      "p_cat": "Necklace",
+      "p_desc": "A striking ruby pendant set in gold.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAGMRXgpxXz5_ye262GgIASPyTvayM76kEoA&s"
+    },
+    {
+      "p_id": 24,
+      "p_name": "Amethyst Ring",
+      "p_cost": 159.99,
+      "p_cat": "Ring",
+      "p_desc": "A beautiful amethyst ring with a silver band.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK5DsgamMOgqclw0WKjX0eAomkNkKEWenZBA&s"
+    },
+    {
+      "p_id": 25,
+      "p_name": "Gold Stud Earrings",
+      "p_cost": 49.99,
+      "p_cat": "Earrings",
+      "p_desc": "Simple and elegant gold stud earrings.",
+      "p_img": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw31381538/images/hi-res/512714SMWABAP1.jpg?sw=640&sh=640"
+    },
+    {
+      "p_id": 26,
+      "p_name": "Sapphire Ring",
+      "p_cost": 399.99,
+      "p_cat": "Ring",
+      "p_desc": "A captivating sapphire ring set in platinum.",
+      "p_img": "https://i.etsystatic.com/11999166/r/il/179b7c/3547021546/il_570xN.3547021546_nsag.jpg"
+    },
+    {
+      "p_id": 27,
+      "p_name": "Emerald Pendant Necklace",
+      "p_cost": 269.99,
+      "p_cat": "Necklace",
+      "p_desc": "A stunning emerald pendant on a gold chain.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpdNDt3EUCeFJtPUVrAeR3_eif7ILUJkuPkQ&s"
+    },
+    {
+      "p_id": 28,
+      "p_name": "Diamond Stud Earrings",
+      "p_cost": 299.99,
+      "p_cat": "Earrings",
+      "p_desc": "Classic diamond stud earrings that sparkle brilliantly.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaeg0fLhLcRCsWdaOuKUmnIZ_ZgiDOxDp5OA&s"
+    },
+    {
+      "p_id": 29,
+      "p_name": "Turquoise Beaded Bracelet",
+      "p_cost": 59.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A stylish bracelet featuring turquoise beads.",
+      "p_img": "https://m.media-amazon.com/images/I/61e+slRx0XL._AC_UY1100_.jpg"
+    },
+    {
+      "p_id": 30,
+      "p_name": "Gold Chain Necklace",
+      "p_cost": 189.99,
+      "p_cat": "Necklace",
+      "p_desc": "A versatile gold chain necklace that can be worn alone or with a pendant.",
+      "p_img": "https://rukminim2.flixcart.com/image/850/1000/xif0q/necklace-chain/n/r/4/1-hti134-chain-hanaa-original-imagn9s3jurq8jea.jpeg?q=90&crop=false"
+    },{
+      "p_id": 31,
+      "p_name": "Onyx Pendant",
+      "p_cost": 129.99,
+      "p_cat": "Necklace",
+      "p_desc": "A sleek onyx pendant set in sterling silver.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSITT4mfk9Ii75Tpm6giB27wZAw4KW0PmEZAw&s"
+    },
+    {
+      "p_id": 32,
+      "p_name": "Peridot Stud Earrings",
+      "p_cost": 109.99,
+      "p_cat": "Earrings",
+      "p_desc": "Charming peridot stud earrings with a bright green hue.",
+      "p_img": "https://5.imimg.com/data5/SELLER/Default/2023/2/MI/RT/YE/2197825/925-sterling-silver-solitaire-women-s-studs-earrings-8x6mm-oval-shape-peridot-friction-back.jpg"
+    },
+    {
+      "p_id": 33,
+      "p_name": "Aquamarine Ring",
+      "p_cost": 329.99,
+      "p_cat": "Ring",
+      "p_desc": "A stunning aquamarine ring with a delicate design.",
+      "p_img": "https://i.etsystatic.com/9353501/r/il/e21918/3280869948/il_570xN.3280869948_ec9f.jpg"
+    },
+    {
+      "p_id": 34,
+      "p_name": "Silver Locket Necklace",
+      "p_cost": 79.99,
+      "p_cat": "Necklace",
+      "p_desc": "A beautiful silver locket necklace for cherished memories.",
+      "p_img": "https://i.etsystatic.com/14534348/r/il/f4c06a/4752517943/il_570xN.4752517943_7tsr.jpg"
+    },
+    {
+      "p_id": 35,
+      "p_name": "Garnet Bracelet",
+      "p_cost": 199.99,
+      "p_cat": "Bracelet",
+      "p_desc": "An elegant bracelet featuring deep red garnets.",
+      "p_img": "https://m.media-amazon.com/images/I/71U5UMt-hXL._AC_UY1100_.jpg"
+    },
+    {
+      "p_id": 36,
+      "p_name": "Platinum Band Ring",
+      "p_cost": 599.99,
+      "p_cat": "Ring",
+      "p_desc": "A classic platinum band ring with a timeless appeal.",
+      "p_img": "https://i.etsystatic.com/6192894/r/il/ff40ba/1410431940/il_570xN.1410431940_4pjg.jpg"
+    },
+    {
+      "p_id": 37,
+      "p_name": "Opal Stud Earrings",
+      "p_cost": 139.99,
+      "p_cat": "Earrings",
+      "p_desc": "Delicate opal stud earrings with a beautiful play of color.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2S-UJSJGYhZURYwe1gJrsd5BCDrU-1Gx1Lw&s"
+    },
+    {
+      "p_id": 38,
+      "p_name": "Amethyst Bead Bracelet",
+      "p_cost": 89.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A lovely bracelet featuring polished amethyst beads.",
+      "p_img": "https://5.imimg.com/data5/SELLER/Default/2021/9/ML/FN/HK/25573797/amethyst-beads-bracelet.jpg"
+    },
+    {
+      "p_id": 39,
+      "p_name": "Gold Infinity Necklace",
+      "p_cost": 149.99,
+      "p_cat": "Necklace",
+      "p_desc": "A trendy gold necklace with an infinity symbol.",
+      "p_img": "https://i.pinimg.com/736x/15/ba/09/15ba09fa727acb3226b4fe173e4be3b2.jpg"
+    },
+    {
+      "p_id": 40,
+      "p_name": "Emerald Stud Earrings",
+      "p_cost": 219.99,
+      "p_cat": "Earrings",
+      "p_desc": "Charming stud earrings with bright green emeralds.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJlgvY1R3GfpRDx28uBA-mFaJlCEo15X22hQ&s"
+    },
+    {
+      "p_id": 41,
+      "p_name": "Pearl Choker Necklace",
+      "p_cost": 169.99,
+      "p_cat": "Necklace",
+      "p_desc": "A sophisticated pearl choker necklace.",
+      "p_img": "https://www.gemzlane.in/cdn/shop/products/IMG-20210925-WA0146.jpg?v=1633327569"
+    },
+    {
+      "p_id": 42,
+      "p_name": "Sapphire Bracelet",
+      "p_cost": 299.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A stunning bracelet adorned with blue sapphires.",
+      "p_img": "https://m.media-amazon.com/images/I/51PhQGVbtaL._AC_UY1100_.jpg"
+    },
+    {
+      "p_id": 43,
+      "p_name": "Gold Signet Ring",
+      "p_cost": 349.99,
+      "p_cat": "Ring",
+      "p_desc": "A classic gold signet ring with a polished finish.",
+      "p_img": "https://images.squarespace-cdn.com/content/v1/654bbe127a0f1f36a4137a83/50fb0288-5b0e-4e23-af02-d8ffb2ee5df6/Gold+signet+rings.jpeg"
+    },
+    {
+      "p_id": 44,
+      "p_name": "Ruby Drop Earrings",
+      "p_cost": 179.99,
+      "p_cat": "Earrings",
+      "p_desc": "Elegant drop earrings featuring vibrant rubies.",
+      "p_img": "https://www.ratnalijewels.com/cdn/shop/products/ruby_diamond_danglers_1_1200x1200.jpg?v=1598895126"
+    },
+    {
+      "p_id": 45,
+      "p_name": "Silver Link Bracelet",
+      "p_cost": 99.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A stylish silver link bracelet for everyday wear.",
+      "p_img": "https://i.etsystatic.com/21729963/r/il/dfbcfc/4028078764/il_570xN.4028078764_8d9p.jpg"
+    },
+    {
+      "p_id": 46,
+      "p_name": "Citrine Pendant Necklace",
+      "p_cost": 139.99,
+      "p_cat": "Necklace",
+      "p_desc": "A vibrant citrine pendant set in gold.",
+      "p_img": "https://www.reikicrystalproducts.com/media/catalog/product/cache/828bf2b9d093595321eef491ed23733e/c/i/citrine_04_1_4.jpg"
+    },
+    {
+      "p_id": 47,
+      "p_name": "Opal Bracelet",
+      "p_cost": 259.99,
+      "p_cat": "Bracelet",
+      "p_desc": "An opulent bracelet featuring radiant opals.",
+      "p_img": "https://brahmatellsstore.com/cdn/shop/files/discover-the-magic-of-energized-opal-bracelet-or-brahmatells-brahmatellsstore-1_1050x700.jpg?v=1713049206"
+    },
+    {
+      "p_id": 48,
+      "p_name": "Diamond Solitaire Ring",
+      "p_cost": 649.99,
+      "p_cat": "Ring",
+      "p_desc": "A timeless diamond solitaire ring for special occasions.",
+      "p_img": "https://www.sarvadajewels.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/p/e/perp_39_32_1_1_1.jpg"
+    },
+    {
+      "p_id": 49,
+      "p_name": "Gold Rope Chain Necklace",
+      "p_cost": 199.99,
+      "p_cat": "Necklace",
+      "p_desc": "A durable and elegant gold rope chain necklace.",
+      "p_img": "https://i.pinimg.com/736x/2a/fb/71/2afb71b9fde2cd9361615c822d1a36f8.jpg"
+    },
+    {
+      "p_id": 50,
+      "p_name": "Sapphire Halo Earrings",
+      "p_cost": 229.99,
+      "p_cat": "Earrings",
+      "p_desc": "Beautiful halo earrings with sapphires and diamonds.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHxY1wiR_yuCQfoazKqOCQImciWMLpO5880Q&s"
+    },
+    {
+      "p_id": 51,
+      "p_name": "Silver Bead Bracelet",
+      "p_cost": 79.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A simple and elegant silver bead bracelet.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtOMkcOrfLCyZNTxI4X1KPCCK4-VW1-bTJWw&s"
+    },
+    {
+      "p_id": 52,
+      "p_name": "Topaz Pendant Necklace",
+      "p_cost": 159.99,
+      "p_cat": "Necklace",
+      "p_desc": "A delicate topaz pendant set in white gold.",
+      "p_img": "https://shraddhashreegems.com/wp-content/uploads/2022/08/natural-blue-topaz-pendant-2.jpg"
+    },
+    {
+      "p_id": 53,
+      "p_name": "Gold Cross Pendant",
+      "p_cost": 109.99,
+      "p_cat": "Necklace",
+      "p_desc": "A classic gold cross pendant on a fine chain.",
+      "p_img": "https://assets.ajio.com/medias/sys_master/root/20210304/ywjI/6041013ef997dd5c40048200/-473Wx593H-6005373910-multi-MODEL.jpg"
+    },
+    {
+      "p_id": 54,
+      "p_name": "Diamond Cluster Ring",
+      "p_cost": 599.99,
+      "p_cat": "Ring",
+      "p_desc": "A dazzling diamond cluster ring that catches the light.",
+      "p_img": "https://cdn.caratlane.com/media/catalog/product/J/R/JR07210-1RP900_1_lar.jpg"
+    },
+    {
+      "p_id": 55,
+      "p_name": "Rose Gold Hoop Earrings",
+      "p_cost": 89.99,
+      "p_cat": "Earrings",
+      "p_desc": "Trendy rose gold hoop earrings for any occasion.",
+      "p_img": "https://assets.ajio.com/medias/sys_master/root/20230525/tQqV/646ee9c6d55b7d0c63e7b8e1/-473Wx593H-464758428-rosegold-MODEL.jpg"
+    },
+    {
+      "p_id": 56,
+      "p_name": "Amethyst Pendant Necklace",
+      "p_cost": 119.99,
+      "p_cat": "Necklace",
+      "p_desc": "A stunning amethyst pendant set in sterling silver.",
+      "p_img": "https://i.etsystatic.com/24569729/r/il/b2bd0e/3726527961/il_fullxfull.3726527961_ore4.jpg"
+    },
+    {
+      "p_id": 57,
+      "p_name": "Gold Cuff Bracelet",
+      "p_cost": 239.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A bold and stylish gold cuff bracelet.",
+      "p_img": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/25832744/2023/11/9/ccfa0951-2ab8-470d-827a-e170fd88ec7f1699543617487MenGold-TonedCuffBracelet1.jpg"
+    },
+    {
+      "p_id": 58,
+      "p_name": "Emerald Halo Ring",
+      "p_cost": 499.99,
+      "p_cat": "Ring",
+      "p_desc": "An exquisite emerald ring surrounded by diamonds.",
+      "p_img": "https://i.etsystatic.com/15646423/r/il/fc878a/1862387612/il_570xN.1862387612_3t5d.jpg"
+    },
+    {
+      "p_id": 59,
+      "p_name": "Silver Charm Necklace",
+      "p_cost": 69.99,
+      "p_cat": "Necklace",
+      "p_desc": "A delicate silver necklace with multiple charms.",
+      "p_img": "https://whitehaathi.com/cdn/shop/files/IMG_3092.jpg?v=1713335959&width=1946"
+    },
+    {
+      "p_id": 60,
+      "p_name": "Garnet Halo Earrings",
+      "p_cost": 149.99,
+      "p_cat": "Earrings",
+      "p_desc": "Elegant halo earrings featuring garnets and diamonds.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTvdEh_HLWGlv8bfQ_M4KwuTKFtj4ConSdsg&s"
+    },
+    {
+      "p_id": 61,
+      "p_name": "Gold Bar Necklace",
+      "p_cost": 99.99,
+      "p_cat": "Necklace",
+      "p_desc": "A minimalist gold bar necklace for everyday wear.",
+      "p_img": "https://assets.winni.in/product/primary/2023/2/82891.jpeg?dpr=1&w=500"
+    },
+    {
+      "p_id": 62,
+      "p_name": "Sapphire Cluster Ring",
+      "p_cost": 449.99,
+      "p_cat": "Ring",
+      "p_desc": "A stunning cluster ring featuring multiple sapphires.",
+      "p_img": "https://i.etsystatic.com/7092030/r/il/94abbc/976651316/il_570xN.976651316_8bmx.jpg"
+    },
+    {
+      "p_id": 63,
+      "p_name": "Turquoise Pendant Necklace",
+      "p_cost": 129.99,
+      "p_cat": "Necklace",
+      "p_desc": "A vibrant turquoise pendant set in sterling silver.",
+      "p_img": "https://beachtreasuresonline.com/cdn/shop/products/CC304-20_2048x.jpg?v=1643554097"
+    },
+    {
+      "p_id": 64,
+      "p_name": "Diamond Hoop Earrings",
+      "p_cost": 349.99,
+      "p_cat": "Earrings",
+      "p_desc": "Luxurious diamond hoop earrings that shine brightly.",
+      "p_img": "https://m.media-amazon.com/images/I/51CIDTC65DL._AC_UY1100_.jpg"
+    },
+    {
+      "p_id": 65,
+      "p_name": "Gold Knot Bracelet",
+      "p_cost": 179.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A stylish gold bracelet with a knot design.",
+      "p_img": "https://m.media-amazon.com/images/I/51Xn-qAniSL._SL1500_.jpg"
+    },
+    {
+      "p_id": 66,
+      "p_name": "Ruby Cluster Necklace",
+      "p_cost": 399.99,
+      "p_cat": "Necklace",
+      "p_desc": "A striking necklace with a cluster of rubies.",
+      "p_img": "https://i.etsystatic.com/7358189/r/il/94c810/1379292563/il_570xN.1379292563_8y20.jpg"
+    },
+    {
+      "p_id": 67,
+      "p_name": "Emerald Drop Necklace",
+      "p_cost": 279.99,
+      "p_cat": "Necklace",
+      "p_desc": "An elegant necklace with a single emerald drop.",
+      "p_img": "https://5.imimg.com/data5/HK/DZ/RP/SELLER-85741369/green-emerald-drop-necklace.jpg"
+    },
+    {
+      "p_id": 68,
+      "p_name": "Gold Teardrop Earrings",
+      "p_cost": 129.99,
+      "p_cat": "Earrings",
+      "p_desc": "Elegant gold earrings with a teardrop design.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW_yZDf6dswwToxl5nOHCwhhyALn8Bw3BNkA&s"
+    },
+    {
+      "p_id": 69,
+      "p_name": "Silver Feather Bracelet",
+      "p_cost": 79.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A delicate silver bracelet with a feather charm.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNDRUviwoUvB2XvAeDycd6wEYr6B-gxdfHYQ&s"
+    },
+    {
+      "p_id": 70,
+      "p_name": "Sapphire Stud Necklace",
+      "p_cost": 229.99,
+      "p_cat": "Necklace",
+      "p_desc": "A simple and elegant necklace with a sapphire stud.",
+      "p_img": "https://i.etsystatic.com/11999166/r/il/0642b7/4699380019/il_fullxfull.4699380019_8j81.jpg"
+    },{
+      "p_id": 71,
+      "p_name": "Moonstone Ring",
+      "p_cost": 119.99,
+      "p_cat": "Ring",
+      "p_desc": "A captivating moonstone ring with a sterling silver band.",
+      "p_img": "https://i.etsystatic.com/25127600/r/il/936201/3199429601/il_570xN.3199429601_mgh0.jpg"
+    },
+    {
+      "p_id": 72,
+      "p_name": "Lapis Lazuli Bracelet",
+      "p_cost": 139.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A beautiful bracelet featuring deep blue lapis lazuli beads.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnGauVtYiz1gzqxIQhCRhUDh2jJfQNS6LETA&s"
+    },
+    {
+      "p_id": 73,
+      "p_name": "Amber Pendant Necklace",
+      "p_cost": 89.99,
+      "p_cat": "Necklace",
+      "p_desc": "A unique pendant necklace with a polished amber stone.",
+      "p_img": "https://m.media-amazon.com/images/I/61GFuXbH4UL.jpg"
+    },
+    {
+      "p_id": 74,
+      "p_name": "Jade Stud Earrings",
+      "p_cost": 99.99,
+      "p_cat": "Earrings",
+      "p_desc": "Elegant stud earrings featuring rich green jade stones.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-xSzrI4ZgMCQYMq3m_mdplFa7wFnnxk_1eA&s"
+    },
+    {
+      "p_id": 75,
+      "p_name": "Coral Bead Bracelet",
+      "p_cost": 79.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A vibrant bracelet with red coral beads.",
+      "p_img": "https://i.etsystatic.com/15894370/r/il/d6d62b/2058658327/il_fullxfull.2058658327_k99i.jpg"
+    },
+    {
+      "p_id": 76,
+      "p_name": "Black Pearl Necklace",
+      "p_cost": 199.99,
+      "p_cat": "Necklace",
+      "p_desc": "An elegant necklace featuring rare black pearls.",
+      "p_img": "https://www.mangatrai.com/products/bgphotos/bimg614864ff5093d.jpg"
+    },
+    {
+      "p_id": 77,
+      "p_name": "Turquoise Stud Earrings",
+      "p_cost": 59.99,
+      "p_cat": "Earrings",
+      "p_desc": "Simple and stylish turquoise stud earrings.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdjbmH91E--ADiEy9atsDOjjJkHGOdAPFJVw&s"
+    },
+    {
+      "p_id": 78,
+      "p_name": "Malachite Pendant Necklace",
+      "p_cost": 139.99,
+      "p_cat": "Necklace",
+      "p_desc": "A striking malachite pendant set in sterling silver.",
+      "p_img": "https://www.remedywala.com/wp-content/uploads/2023/03/Malachite-Pendant-2.jpg"
+    },
+    {
+      "p_id": 79,
+      "p_name": "Tiger's Eye Bracelet",
+      "p_cost": 69.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A bracelet featuring the distinctive bands of tiger's eye stones.",
+      "p_img": "https://images-cdn.ubuy.co.in/65412907941e5a223a569ee3-tiger-eye-bracelet-men-10mm-mens.jpg"
+    },
+    {
+      "p_id": 80,
+      "p_name": "Garnet Pendant Necklace",
+      "p_cost": 159.99,
+      "p_cat": "Necklace",
+      "p_desc": "A beautiful necklace with a deep red garnet pendant.",
+      "p_img": "https://d25g9z9s77rn4i.cloudfront.net/uploads/product/755/1659168769_83cb4d2c95c068082546.jpg"
+    },
+    {
+      "p_id": 81,
+      "p_name": "Gold Bead Earrings",
+      "p_cost": 49.99,
+      "p_cat": "Earrings",
+      "p_desc": "Simple gold bead earrings perfect for everyday wear.",
+      "p_img": "https://cdn.shopclues.com/images1/thumbnails/115438/320/320/152761032-115438287-1633425604.jpg"
+    },
+    {
+      "p_id": 82,
+      "p_name": "Amethyst Cluster Ring",
+      "p_cost": 249.99,
+      "p_cat": "Ring",
+      "p_desc": "A stunning ring with a cluster of amethyst stones.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEEZySJ_-aZgy_Ga65sSKyIFc3CqVEWWV5uQ&s"
+    },
+    {
+      "p_id": 83,
+      "p_name": "Opal Bead Bracelet",
+      "p_cost": 89.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A delicate bracelet featuring opal beads with a beautiful play of color.",
+      "p_img": "https://www.theopaldealer.com/cdn/shop/files/pearlwhiterondellebracelet9_1024x1024.png?v=1696528976"
+    },
+    {
+      "p_id": 84,
+      "p_name": "Silver Bar Necklace",
+      "p_cost": 79.99,
+      "p_cat": "Necklace",
+      "p_desc": "A minimalist silver bar necklace that complements any outfit.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGXxnwrVWaYI0KE3lambliV9pNRaOQ_de40g&s"
+    },
+    {
+      "p_id": 85,
+      "p_name": "Aquamarine Drop Earrings",
+      "p_cost": 179.99,
+      "p_cat": "Earrings",
+      "p_desc": "Elegant drop earrings featuring aquamarine stones.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZv01Wf4k92ssEk7B9RZnaze7OC29jOjg7FA&s"
+    },
+    {
+      "p_id": 86,
+      "p_name": "Turquoise Bead Necklace",
+      "p_cost": 129.99,
+      "p_cat": "Necklace",
+      "p_desc": "A vibrant necklace with polished turquoise beads.",
+      "p_img": "https://gemsetlove.com/cdn/shop/products/n8341-turquoise-nugget-bead-necklace-1_800x.jpg?v=1682211559"
+    },
+    {
+      "p_id": 87,
+      "p_name": "Peridot Cluster Ring",
+      "p_cost": 219.99,
+      "p_cat": "Ring",
+      "p_desc": "A beautiful ring with a cluster of peridot stones.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo3cMP2JLDUnBFK2NdF4yjh1v091ICNVrQoQ&s"
+    },
+    {
+      "p_id": 88,
+      "p_name": "Lapis Lazuli Pendant Necklace",
+      "p_cost": 169.99,
+      "p_cat": "Necklace",
+      "p_desc": "A striking pendant necklace with a deep blue lapis lazuli stone.",
+      "p_img": "https://www.mypoojabox.in/cdn/shop/products/lapis-lazuli-pencil-pendant-necklace-for-wisdom-491.jpg?v=1625062498"
+    },
+    {
+      "p_id": 89,
+      "p_name": "Gold Bar Bracelet",
+      "p_cost": 99.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A stylish gold bar bracelet that is perfect for layering.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU-SzrK2qIobSNZJ-9yHTFlPikGg1pTkgBeg&s"
+    },
+    {
+      "p_id": 90,
+      "p_name": "Ruby Halo Earrings",
+      "p_cost": 189.99,
+      "p_cat": "Earrings",
+      "p_desc": "Elegant halo earrings featuring vibrant rubies and diamonds.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBggA92fkxvWln2DLGo3PvxzoXhn8_MuAdzw&s"
+    },
+    {
+      "p_id": 91,
+      "p_name": "Silver Knot Necklace",
+      "p_cost": 89.99,
+      "p_cat": "Necklace",
+      "p_desc": "A delicate silver necklace with a knot design.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdPfZBT0WBd0YsPS-CNxSbS-MzPQLuay2hIQ&s"
+    },
+    {
+      "p_id": 92,
+      "p_name": "Emerald Bead Bracelet",
+      "p_cost": 139.99,
+      "p_cat": "Bracelet",
+      "p_desc": "A vibrant bracelet featuring polished emerald beads.",
+      "p_img": "https://i.etsystatic.com/20276551/r/il/bdc56a/2793356316/il_570xN.2793356316_p4cf.jpg"
+    },
+    {
+      "p_id": 93,
+      "p_name": "Topaz Halo Ring",
+      "p_cost": 299.99,
+      "p_cat": "Ring",
+      "p_desc": "A stunning ring with a topaz center stone surrounded by diamonds.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIieMarvxHpAYcgHReJaMNGQOsYbzU2loW6Q&s"
+    },
+    {
+      "p_id": 94,
+      "p_name": "Opal Pendant Necklace",
+      "p_cost": 169.99,
+      "p_cat": "Necklace",
+      "p_desc": "A delicate pendant necklace with a radiant opal stone.",
+      "p_img": "https://i.etsystatic.com/6155585/r/il/561b91/921845590/il_570xN.921845590_cil4.jpg"
+    },
+    {
+      "p_id": 95,
+      "p_name": "Gold Feather Earrings",
+      "p_cost": 129.99,
+      "p_cat": "Earrings",
+      "p_desc": "Elegant gold earrings with a delicate feather design.",
+      "p_img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStGD4Q30_H2XFOoi9WIIZLjB9seiQea6kxWw&s"
+    }
+  
+]
+  
